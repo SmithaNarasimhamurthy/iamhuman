@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -8,3 +9,15 @@ matplotlib
 seaborn
 Pillow
 scipy
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+Pillow
+scipy
+>>>>>>> b407d5d14b555c078a72965ea971ecbe33069e3f
